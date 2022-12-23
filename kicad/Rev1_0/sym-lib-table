@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TMO_Connector_Generic)(type Legacy)(uri ${KIPRJMOD}/lib/TMO_Connector_Generic.lib)(options "")(descr ""))
+)
